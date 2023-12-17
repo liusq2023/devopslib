@@ -2,5 +2,8 @@ package org.devops
 
 def printmessage(content) {
     println(content)
-    println("hello2")
+}
+
+def printmessage2(content2) {
+    println(content2)
 }
