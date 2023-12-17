@@ -1,4 +1,4 @@
-def printfirst(){
+def call(){
     println("hello first")
   
 }
